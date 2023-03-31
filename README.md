@@ -13,8 +13,8 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 <br>
 
 <a href="https://www.linkedin.com/in/hildelbrando-correa-salcedo-326776241/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJRR-U9ypdUmfQPO5qLWJQTohAtjMB-4Zf4__wbTP3MaW3H-aDBdO9OvF7hhhHfFTuzI&usqp=CAU" alt="Build Status" height=50></a>
-<a href="https://www.facebook.com/brayancorreasd/"><img src="https://icon-library.com/images/facebook-icon-25x25/facebook-icon-25x25-18.jpg" alt="Build Status" height=50></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://depor.com/resizer/SE0bLOm35sSP1cENHkFDwQ-0CGk=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/TNSWW7WWIVBL3OQSMU4E7CDWAE.jpg" alt="Build Status" height=50></a>
+<a href="https://www.facebook.com/brayancorreasd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" alt="Build Status" height=50></a>
 <label><b></b></label>
 <a href="https://api.whatsapp.com/send?phone=573022605415"><img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG95147.png" alt="Build Status" height=50></a>
 </p>
