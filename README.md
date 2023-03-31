@@ -1,5 +1,15 @@
-### I AM Hildelbrando Correa Salcedo 💻
+### I am engineer Hildelbrando Correa Salcedo 💻📲🎮
 ![Presentacion de GitHub Canva](https://user-images.githubusercontent.com/63067085/229165872-fbc59e62-de32-4cc0-809f-e53accc502e7.gif)
+
+<p align="center">
+<br>
+<label><b>Lenguajes y herramientas</b></label>
+<br>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="Build Status" height=50></a>
+<label><b></b></label>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Build Status" height=50></a>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="Build Status" height=50></a>
+</p>
 
 # Profile
 
