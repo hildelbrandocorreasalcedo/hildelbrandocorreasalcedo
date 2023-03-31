@@ -9,11 +9,11 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 
 <p align="center">
 <br>
-<label><b>Sigueme en</b></label>
+<label><b>Sigueme y Contactame en</b></label>
 <br>
 <a href="https://www.linkedin.com/in/hildelbrando-correa-salcedo-326776241/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="Build Status" height=50></a>
 <a href="https://www.facebook.com/brayancorreasd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_de_Facebook.png/220px-Logo_de_Facebook.png" alt="Build Status" height=50></a>
 <label><b></b></label>
-<a href="https://api.whatsapp.com/send?phone=573022605415"><img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG95147.png" alt="Build Status" height=50></a>
+<a href="https://api.whatsapp.com/send?phone=573022605415"><img src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="Build Status" height=50></a>
 </p>
