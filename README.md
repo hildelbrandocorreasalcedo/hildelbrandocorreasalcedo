@@ -1,6 +1,5 @@
 ### I am Hildelbrando Correa Salcedo 💻
-
-(https://user-images.githubusercontent.com/63067085/229163802-c43a7daf-8564-4dea-970c-753eb6a0f1f5.gif)
+![Presentacion de GitHub](https://user-images.githubusercontent.com/63067085/229164956-74f02bb4-2a70-4005-bd2f-9610e72f7ce8.gif)
 
 # Profile
 
