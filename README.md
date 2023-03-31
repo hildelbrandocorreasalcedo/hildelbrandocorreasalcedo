@@ -29,16 +29,22 @@
 I am passionate about programming, all the time I try overcome my own limits, self-taught, persevering. Easily for learning, teamwork and problem solving issues.
 Programmer with experience in creating applications desktop, web, mobile, websites, understanding systems management database managers and Scrum management.
 
+# Training 🎖️
+
+- Mobile, web and desktop developer.
+- Game developer with Unity
+- Object and event oriented programming.
+- Use of agile methodologies with SCRUM for development software with ATLASSIAN (Gira Software, Confluence, Bitbucket)
+- SQL and NoSQL databases
+- Talend: Extraction, insertion, management, processing, data transformation
+
 # Education 🎓
 
 Systems Engineer from the "Universidad popular del cesar"  ![LogoSistemas2023](https://user-images.githubusercontent.com/63067085/229247342-b0ea0e82-c354-402b-bf5a-65ff6ba29f97.png)
-<p align="center">
-<br>
-<label><b>Link de pagina:</b></label>
-<br>
+- Page of the Universidad Popular del Cesar en Ingenieria de sistemas: http://sistemas.unicesar.edu.co/
+- Graduate profile: http://sistemas.unicesar.edu.co/index.php/sobre-el-programa/perfiles-de-formacion/perfil-de-egreso
 <a href="http://sistemas.unicesar.edu.co/"><img src="http://sistemas.unicesar.edu.co/images/logo-1.png" alt="Build Status" height=50></a>
-</p>
-  
+
 <p align="center">
 <br>
 <label><b>Sigueme y Contactame en</b></label>
