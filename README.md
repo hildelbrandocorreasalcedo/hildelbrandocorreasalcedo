@@ -3,12 +3,12 @@
 
 <p align="center">
 <br>
-<label><b>Lenguajes y herramientas</b></label>
+<label><b>Sigueme y Contactame en</b></label>
 <br>
+<label><b></b></label>
 <a href="#"><img src="https://growiz.com.br/wp-content/uploads/2021/01/ms-dotnet-3-1024x1024.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Build Status" height=50></a>
-<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Build Status" height=50></a>
@@ -17,11 +17,11 @@
 <a href="#"><img src="https://play-lh.googleusercontent.com/DvdO6zut4h7byRXOnmtpuyLTnC2-fPltRT-yqI0l9m_mA-U1mhDPj3NAE7IenEF1yg" alt="Build Status" height=50></a>
 <a href="#"><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" alt="Build Status" height=50></a>
 <a href="#"><img src="https://geeks.ms/jorge/wp-content/uploads/sites/6/2007/05/20210927_01.png" alt="Build Status" height=50></a>
-  <a href="#"><img src="![image](https://user-images.githubusercontent.com/63067085/229187229-3db26d81-e1f4-4579-b544-decebb97a05d.png)" alt="Build Status" height=50></a>
-<a href="#"><img src="https://www.certia.net/wp-content/uploads/2021/03/NoSQL1.png" alt="Build Status" height=50></a>
-<a href="#"><img src="https://e7.pngegg.com/pngimages/368/907/png-clipart-cosmos-db-document-oriented-database-microsoft-azure-nosql-microsoft-text-rectangle-thumbnail.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/44/a1aa6de0754300a8bb8a2f2d2ac817/atlassian-logo-gradient-vertical-white.png?auto=format%2Ccompress&dpr=1" alt="Build Status" height=50></a>
 </p>
+<a href="#"><img src="![image](https://user-images.githubusercontent.com/63067085/229187229-3db26d81-e1f4-4579-b544-decebb97a05d.png)" alt="Build Status" height=50></a>
+<a href="#"><img src="https://www.certia.net/wp-content/uploads/2021/03/NoSQL1.png" alt="Build Status" height=50></a>
+<a href="#"><img src="https://e7.pngegg.com/pngimages/368/907/png-clipart-cosmos-db-document-oriented-database-microsoft-azure-nosql-microsoft-text-rectangle-thumbnail.png" alt="Build Status" height=50></a>
 
 # Profile
 
@@ -33,6 +33,7 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 <br>
 <label><b>Sigueme y Contactame en</b></label>
 <br>
+<label><b></b></label>
 <a href="https://www.linkedin.com/in/hildelbrando-correa-salcedo-326776241/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="Build Status" height=50></a>
 <a href="https://api.whatsapp.com/send?phone=573022605415"><img src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="Build Status" height=50></a>
