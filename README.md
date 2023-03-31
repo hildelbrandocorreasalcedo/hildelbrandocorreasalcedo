@@ -3,7 +3,7 @@
 
 <p align="center">
 <br>
-<label><b>Sigueme y Contactame en</b></label>
+<label><b>Lenguajes y herramientas</b></label>
 <br>
 <br>
 <a href="#"><img src="https://growiz.com.br/wp-content/uploads/2021/01/ms-dotnet-3-1024x1024.png" alt="Build Status" height=50></a>
@@ -31,8 +31,8 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 
 # Education 🎓
 
-Systems Engineer from the "Universidad popular del cesar"  
-<a href="http://sistemas.unicesar.edu.co/"><img src=![LogoSistemas2023](https://user-images.githubusercontent.com/63067085/229247342-b0ea0e82-c354-402b-bf5a-65ff6ba29f97.png) alt="Build Status" height=50></a>
+Systems Engineer from the "Universidad popular del cesar"  ![LogoSistemas2023](https://user-images.githubusercontent.com/63067085/229247342-b0ea0e82-c354-402b-bf5a-65ff6ba29f97.png)
+<a href="http://sistemas.unicesar.edu.co/"><img src="http://sistemas.unicesar.edu.co/images/logo-1.png" alt="Build Status" height=50></a>
 
 <p align="center">
 <br>
