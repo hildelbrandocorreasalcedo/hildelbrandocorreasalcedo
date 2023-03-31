@@ -7,14 +7,14 @@ I am passionate about programming, all the time I try overcome my own limits, se
 
 Programmer with experience in creating applications desktop, web, mobile, websites, understanding systems management database managers and Scrum management.
 
+<p align="center">
 <br>
 <label><b>Sigueme en</b></label>
 <br>
 
-<a href="https://www.linkedin.com/in/hildelbrando-correa-salcedo-326776241/"><img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="Build Status" height=50></a>
+<a href="https://www.linkedin.com/in/hildelbrando-correa-salcedo-326776241/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Build Status" height=50></a>
 <a href="https://www.facebook.com/brayancorreasd/"><img src="https://icon-library.com/images/facebook-icon-25x25/facebook-icon-25x25-18.jpg" alt="Build Status" height=50></a>
 <label><b></b></label>
 <a href="https://api.whatsapp.com/send?phone=573022605415"><img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG95147.png" alt="Build Status" height=50></a>
-
 </p>
