@@ -11,10 +11,9 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 <br>
 <label><b>Sigueme en</b></label>
 <br>
-
 <a href="https://www.linkedin.com/in/hildelbrando-correa-salcedo-326776241/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://depor.com/resizer/SE0bLOm35sSP1cENHkFDwQ-0CGk=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/TNSWW7WWIVBL3OQSMU4E7CDWAE.jpg" alt="Build Status" height=50></a>
-<a href="https://www.facebook.com/brayancorreasd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" alt="Build Status" height=50></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="Build Status" height=50></a>
+<a href="https://www.facebook.com/brayancorreasd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_de_Facebook.png/220px-Logo_de_Facebook.png" alt="Build Status" height=50></a>
 <label><b></b></label>
 <a href="https://api.whatsapp.com/send?phone=573022605415"><img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG95147.png" alt="Build Status" height=50></a>
 </p>
