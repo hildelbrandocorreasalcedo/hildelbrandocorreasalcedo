@@ -114,12 +114,12 @@ Programmer with experience in creating applications desktop, web, mobile, websit
   
 <h1 align="center">Education 🎓</h1>
 <p>
-Systems Engineer from the "Universidad popular del cesar"  ![LogoSistemas2023](https://user-images.githubusercontent.com/63067085/229247342-b0ea0e82-c354-402b-bf5a-65ff6ba29f97.png)
+Systems Engineer from the "Universidad popular del cesar"
+  <p align="center">
+     <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
+  </p>
 - Page of the "Universidad Popular del Cesar en Ingenieria de sistemas": http://sistemas.unicesar.edu.co/
 - Graduate profile: http://sistemas.unicesar.edu.co/index.php/sobre-el-programa/perfiles-de-formacion/perfil-de-egreso
-<p align="center">
-  <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
-</p>
 </p>
   
 <p align="center">
