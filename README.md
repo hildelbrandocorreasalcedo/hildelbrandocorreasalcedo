@@ -97,34 +97,36 @@
 </table>
       
 <h1 align="center">Profile 👨🏻‍💻</h1>
-<p>
 I am passionate about programming, all the time I try overcome my own limits, self-taught, persevering. Easily for learning, teamwork and problem solving issues.
 Programmer with experience in creating applications desktop, web, mobile, websites, understanding systems management database managers and Scrum management.
-</p>
   
 <h1 align="center">Training 🎖️</h1>
 <p>
-- Mobile, web and desktop developer.
-- Game developer with Unity
-- Object and event oriented programming.
-- Use of agile methodologies with SCRUM for development software with ATLASSIAN (Gira Software, Confluence, Bitbucket)
-- SQL and NoSQL databases
-- Talend: Extraction, insertion, management, processing, data transformation
+  <ul>
+    <li>Mobile, web and desktop developer.</li>
+    <li>Game developer with Unity.</li>
+    <li>Object and event oriented programming.</li>
+    <li>Use of agile methodologies with SCRUM for development software with ATLASSIAN (Gira Software, Confluence, Bitbucket).</li>
+    <li>SQL and NoSQL databases.</li>
+    <li>Talend: Extraction, insertion, management, processing, data transformation.</li>
+  </ul>
 </p>
   
 <h1 align="center">Education 🎓</h1>
 <p>
-Systems Engineer from the "Universidad popular del cesar"  ![LogoSistemas2023](https://user-images.githubusercontent.com/63067085/229247342-b0ea0e82-c354-402b-bf5a-65ff6ba29f97.png)
-- Page of the "Universidad Popular del Cesar en Ingenieria de sistemas": http://sistemas.unicesar.edu.co/
-- Graduate profile: http://sistemas.unicesar.edu.co/index.php/sobre-el-programa/perfiles-de-formacion/perfil-de-egreso
-<p align="center">
-  <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
-</p>
+  <p align="center">Systems Engineer from the "Universidad popular del cesar"</p>
+  <p align="center">
+     <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
+  </p>
+  <ul>
+     <li>Page of the "Universidad Popular del Cesar en Ingenieria de sistemas": http://sistemas.unicesar.edu.co/</li>
+     <li>Graduate profile: http://sistemas.unicesar.edu.co/index.php/sobre-el-programa/perfiles-de-formacion/perfil-de-egreso</li>
+  </ul>
 </p>
   
 <p align="center">
 <br>
-<label><b>follow me and contact me</b></label>
+<label><b>Sigueme y Contactame en</b></label>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/hildelbrando-correa-salcedo-326776241/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
