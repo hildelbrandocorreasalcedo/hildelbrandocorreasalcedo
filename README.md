@@ -1,7 +1,7 @@
 <h1 align="center">I am engineer Hildelbrando Correa Salcedo 💻📲🎮</h1>
 
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/63067085/229165872-fbc59e62-de32-4cc0-809f-e53accc502e7.gif" alt="BannerPresentacionGitHub">
+  <img width="500" src="https://user-images.githubusercontent.com/63067085/229165872-fbc59e62-de32-4cc0-809f-e53accc502e7.gif" alt="BannerPresentacionGitHub">
 </p>
 
 <p align="center"><strong>PROGRAMMING LANGUAGES AND TOOLS</strong></p>
@@ -27,6 +27,8 @@
       <img width="50" src="https://lenguajehtml.com/html/logo.svg" alt="Build Status"><br>
       Node
     </td>
+</tr>
+<tr>
     <td align="center">
       <img width="50" src="https://lenguajecss.com/css/logo.svg" alt="Build Status"><br>
       Nod
@@ -47,6 +49,8 @@
       <img width="50" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="Build Status"><br>
       Node
     </td>
+</tr>
+<tr>
     <td align="center">
       <img width="50" src="https://play-lh.googleusercontent.com/DvdO6zut4h7byRXOnmtpuyLTnC2-fPltRT-yqI0l9m_mA-U1mhDPj3NAE7IenEF1yg" alt="Build Status"><br>
       Node
@@ -67,6 +71,8 @@
       <img width="50" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/44/a1aa6de0754300a8bb8a2f2d2ac817/atlassian-logo-gradient-vertical-white.png?auto=format%2Ccompress&dpr=1" alt="Build Status"><br>
       Node
     </td>
+</tr>
+<tr>
     <td align="center">
       <img width="50" src="https://cdn-icons-png.flaticon.com/512/1420/1420398.png" alt="Build Status"><br>
       Node
