@@ -13,73 +13,73 @@
     </td>
     <td align="center">
       <img width="50" src="https://cdni.comss.net/logo/netframework.png" alt="Build Status"><br>
-      Node
+      .Net Fram
     </td>
     <td align="center">
       <img width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="Build Status"><br>
-      Node
+      C#
     </td>
     <td align="center">
       <img width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Build Status"><br>
-      Node
+      C++
     </td>
     <td align="center">
       <img width="50" src="https://lenguajehtml.com/html/logo.svg" alt="Build Status"><br>
-      Node
+      Html
     </td>
 </tr>
 <tr>
     <td align="center">
       <img width="50" src="https://lenguajecss.com/css/logo.svg" alt="Build Status"><br>
-      Nod
+      CSS
     </td>
     <td align="center">
       <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU" alt="Build Status"><br>
-      Node
+      JavaScript
     </td>
     <td align="center">
       <img width="50" src="https://sg.com.mx/sites/default/files/styles/570x500/public/images/angular-logo.png?itok=_4hR0cNu" alt="Build Status"><br>
-      Nod
+      Angular
     </td>
     <td align="center">
       <img width="50" src="https://camo.githubusercontent.com/dc130e15e764a2ce83daf7503c9b73e5ee349259ceb82b4a0f393339289f8564/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a352d616f4b3849426d58766535776842514d393047412e706e67" alt="Build Status"><br>
-      node
+      Flutter
     </td>
     <td align="center">
       <img width="50" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="Build Status"><br>
-      Node
+      Dart
     </td>
 </tr>
 <tr>
     <td align="center">
       <img width="50" src="https://play-lh.googleusercontent.com/DvdO6zut4h7byRXOnmtpuyLTnC2-fPltRT-yqI0l9m_mA-U1mhDPj3NAE7IenEF1yg" alt="Build Status"><br>
-      Node
+      Unity
     </td>
     <td align="center">
       <img width="50" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" alt="Build Status"><br>
-      Node
+      GitHub
     </td>
     <td align="center">
       <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="Build Status"><br>
-      Node
+      G-Desktop
     </td>
     <td align="center">
       <img width="50" src="https://geeks.ms/jorge/wp-content/uploads/sites/6/2007/05/20210927_01.png" alt="Build Status"><br>
-      Node
+      Scrum
     </td>
     <td align="center">
       <img width="50" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/44/a1aa6de0754300a8bb8a2f2d2ac817/atlassian-logo-gradient-vertical-white.png?auto=format%2Ccompress&dpr=1" alt="Build Status"><br>
-      Node
+      Atlassian
     </td>
 </tr>
 <tr>
-  <td align="center">
+    <td align="center">
       <img width="50" src="https://cdn-icons-png.flaticon.com/512/1420/1420398.png" alt="Build Status"><br>
       SQL
     </td>
     <td align="center">
       <img width="50" src="https://www.certia.net/wp-content/uploads/2021/03/NoSQL1.png" alt="Build Status"><br>
-      SQL & NoSQL
+      SQL-NoSQL
     </td>
     <td align="center">
       <img width="50" src="https://sqltest.abonent.plus/assets/nosql-logo.87dc0d06.png" alt="Build Status"><br>
