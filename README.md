@@ -126,7 +126,7 @@ Programmer with experience in creating applications desktop, web, mobile, websit
   
 <p align="center">
 <br>
-<label><b>Sigueme y Contactame en</b></label>
+<label><b>follow me and contact me</b></label>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/hildelbrando-correa-salcedo-326776241/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
