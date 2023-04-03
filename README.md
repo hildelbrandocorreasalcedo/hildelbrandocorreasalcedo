@@ -4,11 +4,10 @@
   <img width="600" src="https://user-images.githubusercontent.com/63067085/229165872-fbc59e62-de32-4cc0-809f-e53accc502e7.gif" alt="BannerPresentacionGitHub">
 </p>
 
-<p align="center">
-<br>
-<label><b>Lenguajes y herramientas</b></label>
-<br>
-<br>
+<p align="center"><strong>PROGRAMMING LANGUAGES AND TOOLS</strong></p>
+
+<a href="#"><img src="https://ugeek.github.io/blog/images-blog/node.png" alt="Build Status" height=50></a>
+<a href="#"><img src="https://cdni.comss.net/logo/netframework.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://growiz.com.br/wp-content/uploads/2021/01/ms-dotnet-3-1024x1024.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Build Status" height=50></a>
@@ -26,7 +25,7 @@
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1420/1420398.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://www.certia.net/wp-content/uploads/2021/03/NoSQL1.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://sqltest.abonent.plus/assets/nosql-logo.87dc0d06.png" alt="Build Status" height=50></a>
-</p>
+
 
 # Profile 👨🏻‍💻
 
