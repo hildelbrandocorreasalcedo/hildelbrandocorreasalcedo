@@ -43,7 +43,7 @@
     </td>
     <td align="center">
       <img width="50" src="https://camo.githubusercontent.com/dc130e15e764a2ce83daf7503c9b73e5ee349259ceb82b4a0f393339289f8564/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a352d616f4b3849426d58766535776842514d393047412e706e67" alt="Build Status"><br>
-      Flutter
+      Flutter     
     </td>
     <td align="center">
       <img width="50" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="Build Status"><br>
@@ -74,6 +74,10 @@
 </tr>
 <tr>
     <td align="center">
+        <img width="50" src="https://www.talend.com/images/logo-talend-logomark.png" alt="Build Status"><br>
+        Talend     
+    </td>
+    <td align="center">
       <img width="50" src="https://cdn-icons-png.flaticon.com/512/1420/1420398.png" alt="Build Status"><br>
       SQL
     </td>
@@ -84,10 +88,6 @@
     <td align="center">
       <img width="50" src="https://sqltest.abonent.plus/assets/nosql-logo.87dc0d06.png" alt="Build Status"><br>
       NoSQL
-    </td>
-    <td align="center">
-        <img width="50" src="https://www.talend.com/images/logo-talend-logomark.png" alt="Build Status"><br>
-        Talend
     </td>
     <td align="center">
         <img width="50" src="https://image-prod.kigyolog.com/contents/tool/71b3e70e4054421e0d13492594724c8a.jpg" alt="Build Status"><br>
