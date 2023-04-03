@@ -97,29 +97,31 @@
 </table>
       
 <h1 align="center">Profile 👨🏻‍💻</h1>
-<p>
 I am passionate about programming, all the time I try overcome my own limits, self-taught, persevering. Easily for learning, teamwork and problem solving issues.
 Programmer with experience in creating applications desktop, web, mobile, websites, understanding systems management database managers and Scrum management.
-</p>
   
 <h1 align="center">Training 🎖️</h1>
 <p>
-- Mobile, web and desktop developer.
-- Game developer with Unity
-- Object and event oriented programming.
-- Use of agile methodologies with SCRUM for development software with ATLASSIAN (Gira Software, Confluence, Bitbucket)
-- SQL and NoSQL databases
-- Talend: Extraction, insertion, management, processing, data transformation
+  <ul>
+    <li>Mobile, web and desktop developer.</li>
+    <li>Game developer with Unity.</li>
+    <li>Object and event oriented programming.</li>
+    <li>Use of agile methodologies with SCRUM for development software with ATLASSIAN (Gira Software, Confluence, Bitbucket).</li>
+    <li>SQL and NoSQL databases.</li>
+    <li>Talend: Extraction, insertion, management, processing, data transformation.</li>
+  </ul>
 </p>
   
 <h1 align="center">Education 🎓</h1>
 <p>
-Systems Engineer from the "Universidad popular del cesar"
+  <p align="center">Systems Engineer from the "Universidad popular del cesar"</p>
   <p align="center">
      <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
   </p>
-- Page of the "Universidad Popular del Cesar en Ingenieria de sistemas": http://sistemas.unicesar.edu.co/
-- Graduate profile: http://sistemas.unicesar.edu.co/index.php/sobre-el-programa/perfiles-de-formacion/perfil-de-egreso
+  <ul>
+     <li>Page of the "Universidad Popular del Cesar en Ingenieria de sistemas": http://sistemas.unicesar.edu.co/</li>
+     <li>Graduate profile: http://sistemas.unicesar.edu.co/index.php/sobre-el-programa/perfiles-de-formacion/perfil-de-egreso</li>
+  </ul>
 </p>
   
 <p align="center">
