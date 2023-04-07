@@ -116,9 +116,7 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 <p>
   <p align="center">Systems Engineer from the "Universidad popular del cesar"</p>
   <p align="center">
-     <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>
-      <img src="https://i.postimg.cc/xCXfxqm6/Ajedrez.png"><br>
-     
+     <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>     
   </p>
   <ul>
      <li>Page of the "Universidad Popular del Cesar en Ingenieria de sistemas": http://sistemas.unicesar.edu.co/</li>
