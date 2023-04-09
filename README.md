@@ -13,7 +13,7 @@
     </td>
      </td>
     <td align="center">
-      <img width="50" src="https://gitlab.com/uploads/-/system/project/avatar/44485809/png-transparent-application-programming-interface-representational-state-transfer-web-api-computer-software-hackathon-api-icon-logo-computer-program-computer-programming-thumbnail.png" alt="Build Status"><br>
+      <img width="50" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/e6d345bc-e2c5-4cf2-9e4c-92694eff615d.__CR0,0,220,220_PT0_SX220_V1___.png" alt="Build Status"><br>
       API REST
     </td>
     <td align="center">
