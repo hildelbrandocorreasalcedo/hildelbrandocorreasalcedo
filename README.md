@@ -13,7 +13,7 @@
     </td>
      </td>
     <td align="center">
-      <img width="50" src="https://f4n3x6c5.stackpathcdn.com/article/restfull-minimal-web-api-with-net-6/Images/image-20220522162113-1.png" alt="Build Status"><br>
+      <img width="50" src="https://gitlab.com/uploads/-/system/project/avatar/44485809/png-transparent-application-programming-interface-representational-state-transfer-web-api-computer-software-hackathon-api-icon-logo-computer-program-computer-programming-thumbnail.png" alt="Build Status"><br>
       API REST
     </td>
     <td align="center">
