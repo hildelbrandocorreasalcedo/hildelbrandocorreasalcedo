@@ -82,9 +82,9 @@
       SQL
     </td>
     <td align="center">
-      <img width="50" src="https://www.certia.net/wp-content/uploads/2021/03/NoSQL1.png" alt="Build Status"><br>
+      <img width="50" src="https://user-images.githubusercontent.com/63067085/230794339-1b6caf12-63ab-4380-9434-0198f7fa458c.png" alt="Build Status"><br>
       SQL-NoSQL
-    </td>
+    </td>  
     <td align="center">
       <img width="50" src="https://sqltest.abonent.plus/assets/nosql-logo.87dc0d06.png" alt="Build Status"><br>
       NoSQL
