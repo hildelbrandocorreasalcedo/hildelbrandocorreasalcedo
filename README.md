@@ -8,7 +8,7 @@
 <table align="center">
 <tr>
     <td align="center">
-      <img width="50" src="https://www.mementotech.in/assets/images/icons/express.png" alt="Build Status"><br>
+      <img width="50" src="https://user-images.githubusercontent.com/63067085/232597412-b62be16f-c42e-4dcb-9f1f-8f17e4e56c5b.PNG" alt="Build Status"><br>
       Express.js
     </td>
     <td align="center">
