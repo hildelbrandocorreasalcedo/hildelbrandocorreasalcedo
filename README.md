@@ -8,7 +8,7 @@
 <table align="center">
 <tr>
     <td align="center">
-      <img width="50" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Build Status"><br>
+      <img width="50" src="https://softprodigy.com/wp-content/uploads/2019/07/express-js.png" alt="Build Status"><br>
       Express.js
     </td>
     <td align="center">
