@@ -8,12 +8,12 @@
 <table align="center">
 <tr>
     <td align="center">
-      <img width="50" src="https://www.daac.in/images/course/15f1ac7e39e1bb7a5b780cb2c0456eb21082538859-express.jsIcon.png" alt="Build Status"><br>
+      <img width="50" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Build Status"><br>
       Express.js
     </td>
     <td align="center">
       <img width="50" src="https://ugeek.github.io/blog/images-blog/node.png" alt="Build Status"><br>
-      Node
+      Node.js
     </td>
     <td align="center">
       <img width="50" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/e6d345bc-e2c5-4cf2-9e4c-92694eff615d.__CR0,0,220,220_PT0_SX220_V1___.png" alt="Build Status"><br>
