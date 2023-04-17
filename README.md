@@ -8,10 +8,13 @@
 <table align="center">
 <tr>
     <td align="center">
+      <img width="50" src="https://kalvanaveen.github.io/WebDevelopmentResources.github.io/Images/Express-JS-min.png" alt="Build Status"><br>
+      Express.js
+    </td>
+    <td align="center">
       <img width="50" src="https://ugeek.github.io/blog/images-blog/node.png" alt="Build Status"><br>
       Node
     </td>
-     </td>
     <td align="center">
       <img width="50" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/e6d345bc-e2c5-4cf2-9e4c-92694eff615d.__CR0,0,220,220_PT0_SX220_V1___.png" alt="Build Status"><br>
       API REST
@@ -23,15 +26,12 @@
     <td align="center">
       <img width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="Build Status"><br>
       C#
-    <td align="center">
-      <img width="50" src="https://lenguajehtml.com/html/logo.svg" alt="Build Status"><br>
-      Html
     </td>
 </tr>
 <tr>
     <td align="center">
-      <img width="50" src="https://lenguajecss.com/css/logo.svg" alt="Build Status"><br>
-      CSS
+      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Build Status"><br>
+      typescript
     </td>
     <td align="center">
       <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU" alt="Build Status"><br>
@@ -42,8 +42,30 @@
       Angular
     </td>
     <td align="center">
+      <img width="50" src="https://lenguajecss.com/css/logo.svg" alt="Build Status"><br>
+      CSS
+    </td>
+    <td align="center">
+      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Build Status"><br>
+      Bootstrap
+    </td>
+</tr>
+<tr>
+    <td align="center">
+      <img width="50" src="https://lenguajehtml.com/html/logo.svg" alt="Build Status"><br>
+      Html
+    </td>   
+    <td align="center">
+      <img width="50" src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="Build Status"><br>
+      XAMPP
+    </td>
+    <td align="center">
+      <img width="50" src="https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4=w240-h480-rw" alt="Build Status"><br>
+      Google Cloud
+    </td>
+    <td align="center">
       <img width="50" src="https://camo.githubusercontent.com/dc130e15e764a2ce83daf7503c9b73e5ee349259ceb82b4a0f393339289f8564/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a352d616f4b3849426d58766535776842514d393047412e706e67" alt="Build Status"><br>
-      Flutter     
+      Flutter  
     </td>
     <td align="center">
       <img width="50" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="Build Status"><br>
