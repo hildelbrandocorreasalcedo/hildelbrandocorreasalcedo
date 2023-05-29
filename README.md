@@ -38,7 +38,7 @@
       JavaScript
     </td>
     <td align="center">
-      <img width="50" src="https://sg.com.mx/sites/default/files/styles/570x500/public/images/angular-logo.png?itok=_4hR0cNu" alt="Build Status"><br>
+      <img width="55" src="https://sg.com.mx/sites/default/files/styles/570x500/public/images/angular-logo.png?itok=_4hR0cNu" alt="Build Status"><br>
       Angular
     </td>
     <td align="center">
@@ -96,7 +96,7 @@
 </tr>
 <tr>
     <td align="center">
-        <img width="50" src="https://www.talend.com/images/logo-talend-logomark.png" alt="Build Status"><br>
+        <img width="60" src="https://www.talend.com/images/logo-talend-logomark.png" alt="Build Status"><br>
         Talend     
     </td>
     <td align="center">
