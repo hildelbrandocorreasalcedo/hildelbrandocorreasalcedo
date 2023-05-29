@@ -82,7 +82,7 @@
       G-Desktop
     </td>
     <td align="center">
-      <img width="50" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="Build Status"><br>
+      <img width="70" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="Build Status"><br>
       AWS Cloud
     </td>
     <td align="center">
