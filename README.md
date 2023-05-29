@@ -78,12 +78,12 @@
       Unity
     </td>
     <td align="center">
-      <img width="50" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" alt="Build Status"><br>
-      GitHub
+      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="Build Status"><br>
+      GitHub Desktop
     </td>
     <td align="center">
-      <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="Build Status"><br>
-      G-Desktop
+      <img width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Famazon-web-services-logo%2F&psig=AOvVaw1PXlR4HMyV2JjRbIn-NFym&ust=1685411467150000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC9wpi1mf8CFQAAAAAdAAAAABAD" alt="Build Status"><br>
+      AWS Cloud
     </td>
     <td align="center">
       <img width="50" src="https://geeks.ms/jorge/wp-content/uploads/sites/6/2007/05/20210927_01.png" alt="Build Status"><br>
