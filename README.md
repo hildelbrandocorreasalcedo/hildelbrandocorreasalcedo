@@ -54,10 +54,10 @@
     <td align="center">
       <img width="50" src="https://lenguajehtml.com/html/logo.svg" alt="Build Status"><br>
       Html
-    </td>   
-    <td align="center">
-      <img width="50" src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="Build Status"><br>
-      XAMPP
+    </td>
+   <td align="center">
+        <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Build Status"><br>
+        Python     
     </td>
     <td align="center">
       <img width="50" src="https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4=w240-h480-rw" alt="Build Status"><br>
@@ -96,8 +96,8 @@
 </tr>
 <tr>
     <td align="center">
-        <img width="50" src="https://www.talend.com/images/logo-talend-logomark.png" alt="Build Status"><br>
-        Talend     
+      <img width="50" src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" alt="Build Status"><br>
+      XAMPP
     </td>
     <td align="center">
       <img width="50" src="https://cdn-icons-png.flaticon.com/512/1420/1420398.png" alt="Build Status"><br>
@@ -112,15 +112,8 @@
       NoSQL
     </td>
     <td align="center">
-        <img width="50" src="https://image-prod.kigyolog.com/contents/tool/71b3e70e4054421e0d13492594724c8a.jpg" alt="Build Status"><br>
-        Power BI
-    </td>
-</tr>
-</tr>
-<tr>
-    <td align="center">
-        <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Build Status"><br>
-        Python     
+        <img width="50" src="https://www.talend.com/images/logo-talend-logomark.png" alt="Build Status"><br>
+        Talend     
     </td>
 </tr>
 </table>
