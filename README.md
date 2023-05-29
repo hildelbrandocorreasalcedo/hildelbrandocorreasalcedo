@@ -119,7 +119,7 @@
 </tr>
 <tr>
     <td align="center">
-        <img width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3APython-logo-notext.svg&psig=AOvVaw1cDRA8u9DGCjUMgIz16Ie5&ust=1685413481699000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCND2xNG8mf8CFQAAAAAdAAAAABAO" alt="Build Status"><br>
+        <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Build Status"><br>
         Python     
     </td>
 </tr>
