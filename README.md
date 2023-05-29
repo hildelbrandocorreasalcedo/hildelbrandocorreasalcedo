@@ -119,7 +119,7 @@
 </table>
       
 <h1 align="center">Profile 👨🏻‍💻</h1>
-I am passionate about programming, all the time I try overcome my own limits, self-taught, persevering. Easily for learning, teamwork and problem solving issues.
+I am passionate about programming, I try to overcome my own limits all the time, self-taught, persevering and recursive in learning any language and tool. With ease of problem solving and teamwork.
 Programmer with experience in creating applications desktop, web, mobile, websites, understanding systems management database managers and Scrum management.
   
 <h1 align="center">Training 🎖️</h1>
