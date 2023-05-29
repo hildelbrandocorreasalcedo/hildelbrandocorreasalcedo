@@ -104,7 +104,7 @@
       SQL
     </td>
     <td align="center">
-      <img width="50" src="https://user-images.githubusercontent.com/63067085/230794339-1b6caf12-63ab-4380-9434-0198f7fa458c.png" alt="Build Status"><br>
+      <img width="70" src="https://user-images.githubusercontent.com/63067085/230794339-1b6caf12-63ab-4380-9434-0198f7fa458c.png" alt="Build Status"><br>
       SQL-NoSQL
     </td>  
     <td align="center">
@@ -138,7 +138,9 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 <p>
   <p align="center">Systems Engineer from the "Universidad popular del cesar"</p>
   <p align="center">
-     <img src="http://sistemas.unicesar.edu.co/images/logo-1.png"><br>     
+     <a href="http://sistemas.unicesar.edu.co/">
+        <img src="http://sistemas.unicesar.edu.co/images/logo-1.png" alt="">
+     </a>   
   </p>
   <ul>
      <li>Page of the "Universidad Popular del Cesar en Ingenieria de sistemas": http://sistemas.unicesar.edu.co/</li>
