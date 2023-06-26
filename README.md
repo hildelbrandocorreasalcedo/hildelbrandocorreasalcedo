@@ -1,4 +1,4 @@
-<h1 align="center">I am engineer Hildelbrando Correa Salcedo 💻📲🎮</h1>
+<h1 align="center">Engineer Hildelbrando Correa Salcedo 💻📲🎮</h1>
 
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/63067085/230683677-de62bd59-6a8a-49e1-bf86-bdef864f8d7e.gif" alt="BannerPresentacionGitHub">
@@ -119,7 +119,7 @@
 </table>
       
 <h1 align="center">Profile 👨🏻‍💻</h1>
-I am passionate about programming, I try to overcome my own limits all the time, self-taught, persevering and recursive in learning any language and tool. With ease of problem solving and teamwork.
+Passionate about programming, I try to overcome my own limits all the time, self-taught, persevering and recursive in learning any language and tool. With ease of problem solving and teamwork.
 Programmer with experience in creating applications desktop, web, mobile, websites, understanding systems management database managers and Scrum management.
   
 <h1 align="center">Training 🎖️</h1>
