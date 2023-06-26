@@ -53,7 +53,7 @@
 <tr>
     <td align="center">
       <img width="50" src="https://lenguajehtml.com/html/logo.svg" alt="Build Status"><br>
-      Html
+      HTML
     </td>
    <td align="center">
         <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Build Status"><br>
