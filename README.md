@@ -132,8 +132,17 @@
 </table>
       
 <h1 align="center">Profile 👨🏻‍💻</h1>
-Passionate about programming, I try to overcome my own limits all the time, self-taught, persevering and recursive in learning any language and tool. With ease of problem solving and teamwork.
-Programmer with experience in creating applications desktop, web, mobile, websites, understanding systems management database managers and Scrum management.
+<p>
+  Freelance Full Stack Developer with 3 years of experience in the design and development of responsive web pages, mobile applications, desktop projects such as neural networks, among others.
+</p><br>
+<p>
+  Passionate about programming and creating dynamic web pages and applications, with a focus on visually attractive design. I enjoy incorporating styling, animations, and a vibrant color palette to bring each project to life.
+</p><br>
+<p>
+  In addition, I have experience in managing database management systems and am familiar with agile methodologies such as Scrum. I also stand out for my skills in communication with clients.
+</p>
+
+
   
 <h1 align="center">Training 🎖️</h1>
 <p>
@@ -146,6 +155,8 @@ Programmer with experience in creating applications desktop, web, mobile, websit
     <li>Talend: Extraction, insertion, management, processing, data transformation.</li>
   </ul>
 </p>
+
+
   
 <h1 align="center">Education 🎓</h1>
 <p>
@@ -160,6 +171,7 @@ Programmer with experience in creating applications desktop, web, mobile, websit
      <li>Graduate profile: https://sistemas.unicesar.edu.co/index.php/es/el-programa/perfiles-de-formacion/perfil-de-egreso</li>
   </ul>
 </p>
+
 
 
 <!-- Contactame -->
