@@ -165,7 +165,7 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 <!-- Contactame -->
 <p align="center">
 <br>
-<label><b>follow me and contact me</b></label>  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width = 3%> 
+<h3>Follow me and contact me</h3>  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width = 3%> 
 <br>
 <br>
 <a href="https://www.linkedin.com/in/hildelbrandocorreasalcedo/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
