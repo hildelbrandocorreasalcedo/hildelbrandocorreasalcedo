@@ -1,12 +1,9 @@
 <h3 align="center">
-
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-
-  <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
 </h3>
 
   <p align="center">
-    <a href="https://github.com/hildelbrandocorreasalcedo"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=31BEF7&background=FFFFFF00&random=false&width=435&lines=Engineer+Hildelbrando+Correa+Salcedo+;Developer+Freelance+Full+Stack+" alt="Typing SVG" width="50" height="120" /></a>
+    <a href="https://github.com/hildelbrandocorreasalcedo"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=31BEF7&background=FFFFFF00&random=false&width=435&lines=Engineer+Hildelbrando+Correa+Salcedo+;Developer+Freelance+Full+Stack+" alt="Typing SVG" height="320" /></a>
   </p>
 
 
