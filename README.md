@@ -163,16 +163,14 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 
 
 <!-- Contactame -->
-<p align="center">
-  <h2>Follow me and contact me <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width = 3%></h2>  
-</p>
-<br>
-<a href="https://www.linkedin.com/in/hildelbrandocorreasalcedo/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="Build Status" height=50></a>
-<a href="https://api.whatsapp.com/send?phone=573022605415"><img src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="Build Status" height=50></a>
-<a href="https://www.instagram.com/hildelbrandocorrea/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Build Status" height=50></a>
-<label><b></b></label>
-</p>
+<h2 align="center">Follow me and contact me <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></h2>
+<div align="center">
+    <a href="https://www.linkedin.com/in/hildelbrandocorreasalcedo/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="Build Status" height=50></a>
+  <a href="https://api.whatsapp.com/send?phone=573022605415"><img src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="Build Status" height=50></a>
+  <a href="https://www.instagram.com/hildelbrandocorrea/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Build Status" height=50></a>
+</div>
+
 
 <!-- Animaciones -->
 <div align="center">
