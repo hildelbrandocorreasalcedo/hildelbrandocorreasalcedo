@@ -1,10 +1,10 @@
-<div align="center">
+<h3 align="center">
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
-  
+</h3>
   <p align="center">
-    <a href="https://github.com/hildelbrandocorreasalcedo"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=31BEF7&background=FFFFFF00&random=false&width=435&lines=Engineer+Hildelbrando+Correa+Salcedo+;Developer+Freelance+Full+Stack+" alt="Typing SVG" /></a>"></a>
+    <a href="https://github.com/hildelbrandocorreasalcedo"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=31BEF7&background=FFFFFF00&random=false&width=435&lines=Engineer+Hildelbrando+Correa+Salcedo+;Developer+Freelance+Full+Stack+" alt="Typing SVG" /></a>
   </p>
-</div>
+
 
 <h1 align="center">Engineer Hildelbrando Correa Salcedo 💻📲🎮</h1>
 
