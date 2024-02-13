@@ -3,7 +3,7 @@
 </h3>
 
   <p align="center">
-    <a href="https://github.com/hildelbrandocorreasalcedo"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=31BEF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Engineer+Hildelbrando+Correa+Salcedo+;Developer+Freelance+Full+Stack+" alt="Typing SVG" height="50" /></a>
+    <a href="https://github.com/hildelbrandocorreasalcedo"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=31BEF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Engineer+Hildelbrando+Correa+Salcedo+;Developer+Freelance+Full+Stack+" alt="Typing SVG" height="100" /></a>
   </p>
 
 <p align="center">
