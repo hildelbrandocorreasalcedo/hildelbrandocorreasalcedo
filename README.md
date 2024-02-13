@@ -132,14 +132,9 @@
 </table>
       
 <h1 align="center">Profile 👨🏻‍💻</h1>
-<p>
-  Freelance Full Stack Developer with 3 years of experience in the design and development of responsive web pages, mobile applications, desktop projects such as neural networks, among others.
-</p><br>
-<p>
-  Passionate about programming and creating dynamic web pages and applications, with a focus on visually attractive design. I enjoy incorporating styling, animations, and a vibrant color palette to bring each project to life.
-</p><br>
-<p>
-  In addition, I have experience in managing database management systems and am familiar with agile methodologies such as Scrum. I also stand out for my skills in communication with clients.
+<p>Freelance Full Stack Developer with 3 years of experience in the design and development of responsive web pages, mobile applications, desktop projects such as neural networks, among others.</p><br>
+<p>Passionate about programming and creating dynamic web pages and applications, with a focus on visually attractive design. I enjoy incorporating styling, animations, and a vibrant color palette to bring each project to life.</p><br>
+<p>In addition, I have experience in managing database management systems and am familiar with agile methodologies such as Scrum. I also stand out for my skills in communication with clients.
 </p>
 
 
