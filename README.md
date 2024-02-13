@@ -9,7 +9,6 @@
 
 <!-- Mi Logotipo -->
 <p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   <img width="600" src="https://user-images.githubusercontent.com/63067085/230683677-de62bd59-6a8a-49e1-bf86-bdef864f8d7e.gif" alt="BannerPresentacionGitHub">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </p>
@@ -166,7 +165,7 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 <!-- Contactame -->
 <p align="center">
 <br>
-<label><b>follow me and contact me</b></label>
+<label><b>follow me and contact me</b></label>  <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width = 3%> 
 <br>
 <br>
 <a href="https://www.linkedin.com/in/hildelbrandocorreasalcedo/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
