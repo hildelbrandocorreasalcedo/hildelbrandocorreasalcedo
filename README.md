@@ -1,17 +1,22 @@
+<!-- Animaciones -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/3e95421342fa70af5fd6d50e59591da8c865e5a76432ab429286ce4d1d49ff8c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572" height="130" width="100%">
+  <img src="https://camo.githubusercontent.com/3e95421342fa70af5fd6d50e59591da8c865e5a76432ab429286ce4d1d49ff8c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572" height="120" width="100%">
 </div>
 
+<!-- Palabras que se mueven solas -->
   <p align="center">
     <a href="https://github.com/hildelbrandocorreasalcedo"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=31BEF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Engineer+Hildelbrando+Correa+Salcedo+;Developer+Freelance+Full+Stack+" alt="Typing SVG" height="100"/></a>
+    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   </p>
 
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/63067085/230683677-de62bd59-6a8a-49e1-bf86-bdef864f8d7e.gif" alt="BannerPresentacionGitHub">
 </p>
 
-<h2 align="center">💻PROGRAMMING LANGUAGES AND TOOLS <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></h2>
+<h2 align="center">💻PROGRAMMING LANGUAGES AND TOOLS <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%></h2>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
+<!-- Tabla de tecnologias -->
 <table align="center">
 <tr>
     <td align="center">
@@ -167,6 +172,9 @@ Programmer with experience in creating applications desktop, web, mobile, websit
 <label><b></b></label>
 </p>
 
+<!-- Animaciones -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" height="130" width="100%">
+  <img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" height="120" width="100%">
 </div>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
