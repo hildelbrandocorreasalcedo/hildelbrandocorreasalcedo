@@ -131,7 +131,7 @@
 </tr>
 </table>
       
-<h1 align="center">Profile 👨🏻‍💻</h1>
+<h1 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> Profile 👨🏻‍💻</h1>
 <p>Freelance Full Stack Developer with 3 years of experience in the design and development of responsive web pages, mobile applications, desktop projects such as neural networks, among others.</p><br>
 <p>Passionate about programming and creating dynamic web pages and applications, with a focus on visually attractive design. I enjoy incorporating styling, animations, and a vibrant color palette to bring each project to life.</p><br>
 <p>In addition, I have experience in managing database management systems and am familiar with agile methodologies such as Scrum. I also stand out for my skills in communication with clients.
@@ -139,7 +139,7 @@
 
 
   
-<h1 align="center">Training 🎖️</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Training 🎖️</h1>
 <p>
   <ul>
     <li>Web, Mobile and Desktop developer.</li>
@@ -153,7 +153,7 @@
 
 
   
-<h1 align="center">Education 🎓</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Education 🎓</h1>
 <p>
   <p align="center">Systems Engineer from the "Universidad popular del cesar"</p>
   <p align="center">
@@ -170,7 +170,7 @@
 
 
 <!-- Contactame -->
-<h2 align="center">Follow me and contact me <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width = 5%></h2>
+<h2 align="center">Follow me and contact me <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width = 10%></h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/hildelbrandocorreasalcedo/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="Build Status" height=50></a>
