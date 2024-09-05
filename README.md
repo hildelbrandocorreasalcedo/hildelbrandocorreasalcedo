@@ -1,8 +1,9 @@
 <!-- Animaciones -->
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-  <img src="https://camo.githubusercontent.com/3e95421342fa70af5fd6d50e59591da8c865e5a76432ab429286ce4d1d49ff8c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572" height="120" width="100%">
-  <a href="https://github.com/hildelbrandocorreasalcedo"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=31BEF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Engineer+Hildelbrando+Correa+Salcedo+;Developer+Freelance+Full+Stack+" alt="Typing SVG" height="100"/></a>
+  [<img src="https://camo.githubusercontent.com/3e95421342fa70af5fd6d50e59591da8c865e5a76432ab429286ce4d1d49ff8c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572" height="120" width="100%">](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ing%20Hildebrando%20Correa%20(Hscorreadev)&descAlign=92&descAlignY=31&textBg=false&fontSize=34&fontAlignY=41)
+  
+  <a href="https://github.com/hildelbrandocorreasalcedo"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=31BEF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Engineer+Hildelbrando+Correa+Salcedo+;Developer+Full+Stack+" alt="Typing SVG" height="100"/></a>
 </div>
 
 
@@ -180,7 +181,7 @@
 
 
 <!-- Animaciones -->
-<div align="center">
-  <img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" height="120" width="100%">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
 </div>
