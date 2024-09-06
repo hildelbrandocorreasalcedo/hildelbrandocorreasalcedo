@@ -134,9 +134,9 @@
 </table>
       
 <h1 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> Profile 👨🏻‍💻</h1>
-<p>Freelance Full Stack Developer with 3 years of experience in the design and development of responsive web pages, mobile applications, desktop projects such as neural networks, among others.</p><br>
-<p>Passionate about programming and creating dynamic web pages and applications, with a focus on visually attractive design. I enjoy incorporating styling, animations, and a vibrant color palette to bring each project to life.</p><br>
-<p>In addition, I have experience in managing database management systems and am familiar with agile methodologies such as Scrum. I also stand out for my skills in communication with clients.
+<p>👨🏻‍💻 More than 3 years of experience as a Software Developer. I led as an engineer and Full Stack developer an information system for a university and a Colombian government website, performing requirements engineering, organizing with agile methodologies and implementing integration and deployment. As a FreeLancer, I have worked in many areas such as web, mobile, desktop, video game and artificial intelligence software development.</p><br>
+<p>👨🏻‍💻 Passionate about programming and creating dynamic web pages and applications, with a focus on visually appealing design. I enjoy incorporating style, animations and a vibrant color palette to bring each project to life.</p><br>
+<p>👨🏻‍💻 Additionally, I have experience in managing database management systems and am familiar with agile methodologies such as Scrum and XP. I also stand out for my skills in communicating with clients.
 </p>
 
 
@@ -144,12 +144,13 @@
 <h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Training 🎖️</h1>
 <p>
   <ul>
-    <li>Web, Mobile and Desktop developer.</li>
-    <li>Game developer with Unity.</li>
-    <li>Object and event oriented programming.</li>
-    <li>Use of agile methodologies with SCRUM for development software with ATLASSIAN (Gira Software, Confluence, Bitbucket).</li>
-    <li>SQL and NoSQL databases.</li>
-    <li>Talend: Extraction, insertion, management, processing, data transformation.</li>
+    <li>✅ Professional systems engineer from the Universidad Popular del Cesar</li>
+    <li>✅ Web, Mobile and Desktop Developer.</li>
+    <li>✅ Game developer with Unity.</li>
+    <li>✅ Object and event oriented programming.</li>
+    <li>✅ Use of agile methodologies with SCRUM for development software with ATLASSIAN (Gira Software, Confluence, Bitbucket).</li>
+    <li>✅ SQL and NoSQL databases.</li>
+    <li>✅ Talend: Extraction, insertion, management, processing, data transformation.</li>
   </ul>
 </p>
 
@@ -176,7 +177,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/hildelbrandocorreasalcedo/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Build Status" height=50></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnGLtzjlhDTmcMzgtkVWHmjWhjKlGRcTCzRprqxxjqttSksslJdWlMgMbSTbqmJMssgKqG"><img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="Build Status" height=50></a>
-  <a href="https://api.whatsapp.com/send?phone=573022605415"><img src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="Build Status" height=50></a>
+  <a href="https://api.whatsapp.com/send?phone=573244604533"><img src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" alt="Build Status" height=50></a>
   <a href="https://www.instagram.com/hildelbrandocorrea/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Build Status" height=50></a>
 </div>
 
